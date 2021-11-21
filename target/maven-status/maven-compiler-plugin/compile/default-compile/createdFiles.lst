@@ -1,0 +1,4 @@
+com\dhome\socialnetworkmicroservicecontracts\commands\CreateComment.class
+com\dhome\socialnetworkmicroservicecontracts\events\CommentCreated.class
+com\dhome\socialnetworkmicroservicecontracts\events\PostCreated.class
+com\dhome\socialnetworkmicroservicecontracts\commands\CreatePost.class
