@@ -9,8 +9,7 @@ import java.util.Date;
 public class CreatePost {
     @TargetAggregateIdentifier
     private String postId;
-    private String videoUrl;
-    private String content;
-    private Date uploadDate;
+    private String description;
+    private Date createdDate;
     private String employeeId;
 }

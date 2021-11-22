@@ -7,7 +7,6 @@ import org.axonframework.modelling.command.TargetAggregateIdentifier;
 public class CreateComment {
     @TargetAggregateIdentifier
     private String commentId;
-    private String text;
-    private String commenterId;
+    private String message;
     private String postId;
 }
