@@ -1,4 +1,8 @@
-C:\Users\Ryzen\Downloads\social-network-microservice-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\events\CommentCreated.java
-C:\Users\Ryzen\Downloads\social-network-microservice-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\commands\CreatePost.java
-C:\Users\Ryzen\Downloads\social-network-microservice-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\commands\CreateComment.java
-C:\Users\Ryzen\Downloads\social-network-microservice-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\events\PostCreated.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\commands\EditPost.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\events\CommentEdited.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\events\CommentCreated.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\events\PostCreated.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\commands\CreatePost.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\commands\EditComment.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\commands\CreateComment.java
+C:\Users\Ryzen\Documents\GitHub\social-network-contracts\src\main\java\com\dhome\socialnetworkmicroservicecontracts\events\PostEdited.java
