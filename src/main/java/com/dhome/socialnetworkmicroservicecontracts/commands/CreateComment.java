@@ -8,6 +8,5 @@ public class CreateComment {
     @TargetAggregateIdentifier
     private String commentId;
     private String text;
-    private String commenterId;
     private String postId;
 }
